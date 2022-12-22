@@ -1,5 +1,5 @@
 module.exports = {
-    displayName: "angular14-rxjs7-sample-app",
+    displayName: "AFD-SPA-TST-APP",
     globals: {
         __PORT__: 4212,
         __STARTCMD__: "npm start -- --port 4212",

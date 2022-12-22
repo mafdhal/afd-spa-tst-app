@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular14-rxjs7-sample-app": {
+    "afd-spa-tst-app": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:application": {
@@ -68,10 +68,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "angular14-rxjs7-sample-app:build:production"
+              "browserTarget": "afd-spa-tst-app:build:production"
             },
             "development": {
-              "browserTarget": "angular14-rxjs7-sample-app:build:development"
+              "browserTarget": "afd-spa-tst-app:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -79,7 +79,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "angular14-rxjs7-sample-app:build"
+            "browserTarget": "afd-spa-tst-app:build"
           }
         },
         "test": {

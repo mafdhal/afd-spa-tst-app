@@ -1,4 +1,4 @@
-# Angular 14 RxJS7 MSAL Angular v2 Sample
+# AFD-SPA-TST-APP
 
 This developer sample is used to demonstrate how to use `@azure/msal-angular`.
 
